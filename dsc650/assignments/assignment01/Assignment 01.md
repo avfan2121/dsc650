@@ -11,9 +11,9 @@ author: Michael Loos
 | Data Item                                  | Size per Item | 
 |--------------------------------------------|--------------:|
 | 128 character message.                     | 128 Bytes     |
-| 1024x768 PNG image                         | 3.15 MB       |
+| 1024x768 PNG image                         | 3.15 MB          |
 | 1024x768 RAW image                         | 1.57 MB       | 
-| HD (1080p) HEVC Video (15 minutes)         | 450 MB        |
+| HD (1080p) HEVC Video (15 minutes)         | 450 MB          |
 | HD (1080p) Uncompressed Video (15 minutes) | 1105 MB       |
 | 4K UHD HEVC Video (15 minutes)             | 2539 MB       |
 | 4k UHD Uncompressed Video (15 minutes)     | 5182 MB       |
